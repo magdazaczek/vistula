@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName">My Company Name, LLC</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber"
+    EvaluatedDefinition="+48 534741045">+48 534741045</Variable>
+  <Variable
+    Name="StreetAddress"
+    Comment=""
+    Definition="Some text"
+    OriginalName="StreetAddress">1234 Lorem Ipsum</Variable>
+  <Variable
+    Name="ProductName"
+    Comment=""
+    OriginalName="ProductName"
+    EvaluatedDefinition="Welcome!">Welcome!</Variable>
+  <Variable
+    Name="Fax"
+    Comment=""
+    OriginalName="Fax"
+    EvaluatedDefinition=""></Variable>
+  <Variable
+    Name="CityStateZip"
+    Comment=""
+    Definition="Some text"
+    EvaluatedDefinition="La Jolla, CA 92037">La Jolla, CA 92037</Variable>
+  <Variable
+    Name="Year"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2016-02-16T18:02:51.1357833-08:00"
+    EvaluatedDefinition="yyyy">yyyy</Variable>
+  <Variable
+    Name="Email"
+    Comment=""
+    EvaluatedDefinition="magdalenaszpunar@outlook.com">magdalenaszpunar@outlook.com</Variable>
+  <Variable
+    Name="Instagram"
+    Comment=""
+    EvaluatedDefinition="https://www.instagram.com">https://www.instagram.com</Variable>
+  <Variable
+    Name="LinkedIn"
+    Comment=""
+    EvaluatedDefinition="https://www.linkedin.com/company/69797/">https://www.linkedin.com/in/magdalena-żaczek-74408a18b/</Variable>
+  <Variable
+    Name="Facebook"
+    Comment=""
+    EvaluatedDefinition="http://www.facebook.com/madcapdocteam">http://www.facebook.com/madcapdocteam</Variable>
+  <Variable
+    Name="Twitter"
+    Comment=""
+    EvaluatedDefinition="https://twitter.com/#!/MadCapDocTeam">https://twitter.com/#!/MadCapDocTeam</Variable>
+</CatapultVariableSet>

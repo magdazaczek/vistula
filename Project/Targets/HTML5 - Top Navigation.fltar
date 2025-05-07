@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MoveOutputContentToRoot="false"
+  SkinComponents=""
+  EnableResponsiveOutput="true"
+  MasterPage="/Content/Resources/MasterPages/OtherTopics.flmsp"
+  ResultsPerPage="8"
+  Skin="/Project/Skins/HTML5 - Top Navigation.flskn"
+  ConditionTagExpression="include[&quot;General.Audience A&quot;] exclude[&quot;General.Audience B&quot;] "
+  MasterStylesheetOverride="true"
+  DefaultUrl="/Content/Home.htm"
+  MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
+  OutputFile="index.html">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Destinations> </Destinations>
+  <MicroContentSearch>
+    <FeaturedSnippets
+      type="AllFiles"
+      numberOfResults="1">
+      <microContentSubset />
+    </FeaturedSnippets>
+    <KnowledgePanel
+      type="Empty"
+      numberOfResults="1">
+      <microContentSubset />
+    </KnowledgePanel>
+  </MicroContentSearch>
+  <Variables>
+    <Variable
+      Name="General/Instagram">https://www.instagram.com</Variable>
+    <Variable
+      Name="General/PhoneNumber">+48 534 741 045</Variable>
+    <Variable
+      Name="General/ProductName">Welcome!</Variable>
+  </Variables>
+</CatapultTarget>
